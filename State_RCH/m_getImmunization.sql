@@ -1,0 +1,1 @@
+sp_helptext t_Lockuser_InUp
